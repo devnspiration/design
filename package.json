@@ -1,0 +1,23 @@
+{
+  "name": "design.devnspiration.com",
+  "version": "1.0.0",
+  "description": "Brand guidelines",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnol/design.git"
+  },
+  "keywords": [
+    "brand"
+  ],
+  "author": "Kevin Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnol/design/issues"
+  },
+  "homepage": "https://github.com/kvnol/design#readme",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2"
+  }
+}
